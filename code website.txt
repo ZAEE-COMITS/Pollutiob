@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <style>
+      body {
+            background: rgb(177, 170, 104);
+            color: white
+        }
+
+        img{
+            height: 300px;
+            width: 300px;
+        }
+
+        img{
+            height: 300px;
+            width: 300px;
+        }
+
+        img{
+            height: 300px;
+            width: 300px;
+        }
+
+
+        
+
+        
+
+    </style>
+</head>
+<body>
+    <h1>Stop Pollution !</h1>
+    <h3>What is pollution ?</h3>
+    <p>Pollution is a bad thing that us humans do. Its like we dont care about our plant and we just care about our selves we need the plant in order to survive if we dont than we cant live somtimes you see people cuting down tress. Tress are the things that give us oxygen without oxygen we cant breath. </p>
+
+    <h2>Types of pollution</h2>
+    <P>Air pollution: When we drive cars or ride motorbikes we harm the air by producing carbon dioxide which harms the air and starts disrupting the ozan layer and the ozan layer is the layer of protection that keeps us protected from the suns heat. When these vehicles are driven or rode the carbon dioxide goes and puts holes in the ozan layer and thats why in som places int he worls it is very hot.  </P>
+    <p>Water pollution: Water pollution is really bad it harms our ocean and its sea life if it keeps on going on then we might lose our sea life. Over 100,000 marine life have died due to pollution we need to help stop polluting and save sea life. Some disavanteges are that some people wont enjoy snorkeling because there wont be sae life and there would be plastic every were so lets keep the ocean clean. </p>
+    <p>Land pollution:Land pollution is the degradation of Earth's land surfaces caused by human activities, such as industrial waste disposal, agricultural chemicals, and improper waste management. This contamination not only damages ecosystems but also poses serious health risks to communities. Addressing land pollution requires sustainable practices and effective regulatory measures to preserve our environment for future generations. </p>
+
+<img src="https://i.pinimg.com/736x/7a/97/20/7a97209ecd9076eaaf2c0ef67ad59a53.jpg" alt="234">
+<img src="https://www.environmentbuddy.com/wp-content/uploads/2021/08/Landfilling-for-land-pollution.jpg" alt="345">
+<img src="https://cdn.zmescience.com/wp-content/uploads/2018/07/pexels-photo-929385.jpeg" alt="123">
+<H1>DONE BY UNKNOWN</H1> 
+</body>
+</html>
